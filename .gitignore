@@ -1,0 +1,6 @@
+lightning_logs/
+__pycache__/
+Summaries/
+llama_emb/
+SumMe/
+TVSum/
